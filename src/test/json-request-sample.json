@@ -1,0 +1,38 @@
+[
+  {
+    "category": "person",
+    "subCategory": "Bob Jones"
+  },
+  {
+    "category": "place",
+    "subCategory": "Washington"
+  },
+  {
+    "category": "person",
+    "subCategory": "Mary"
+  },
+  {
+    "category": "computer",
+    "subCategory": "Mac"
+  },
+  {
+    "category": "other",
+    "subCategory": "Tree"
+  },
+  {
+    "category": "animal",
+    "subCategory": "Dog"
+  },
+  {
+    "category": "place",
+    "subCategory": "Texas"
+  },
+  {
+    "category": "animal",
+    "subCategory": "Cat"
+  },
+  {
+    "category": "person",
+    "subCategory": "Mac"
+  }
+]
